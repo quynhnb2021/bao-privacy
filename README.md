@@ -1,189 +1,200 @@
-I. ĐIỀU KHOẢN SỬ DỤNG
+# I. ĐIỀU KHOẢN SỬ DỤNG
 
 Chào mừng Quý khách đến với Trang thông tin điện tử (Website) và các Ứng Dụng Điện tử chính thức của Công ty Quản lý nợ và khai thác tài sản Ngân hàng TMCP Quân đội (MBAMC).
 
-1. Chấp nhận Điều Khoản
+## 1. Chấp nhận Điều Khoản
 
-1.1. Bằng việc truy cập vào Website và các Ứng Dụng Điện tử này, Quý khách xác nhận đồng ý và chịu sự ràng buộc bởi các Điều Khoản Sử Dụng dưới đây.
-Vui lòng đọc kỹ các điều khoản này trước khi sử dụng.
+**1.1.** Bằng việc truy cập vào Website và các Ứng Dụng Điện tử này, Quý khách xác nhận đồng ý và chịu sự ràng buộc bởi các Điều Khoản Sử Dụng dưới đây.
 
-1.2. Chúng tôi có thể điều chỉnh Điều Khoản Sử Dụng bất kỳ lúc nào mà không cần thông báo trước.
-Phiên bản cập nhật có hiệu lực ngay khi được đăng tải.
+**1.2.** Chúng tôi có thể điều chỉnh Điều Khoản Sử Dụng bất kỳ lúc nào mà không cần thông báo trước.
 
-1.3. Nếu Quý khách không đồng ý với bất kỳ nội dung nào, vui lòng không sử dụng Website và các Ứng Dụng Điện tử của MBAMC.
+**1.3.** Nếu Quý khách không đồng ý, vui lòng không sử dụng Website và các Ứng Dụng.
 
-II. BẢN QUYỀN SỞ HỮU TRÍ TUỆ
+---
 
-2.1. Website và các Ứng Dụng Điện tử này thuộc sở hữu và được vận hành bởi MBAMC.
+# II. BẢN QUYỀN SỞ HỮU TRÍ TUỆ
 
-2.2. Trừ khi pháp luật cho phép, Quý khách không được:
+**2.1.** Website và Ứng Dụng thuộc quyền sở hữu của MBAMC.
 
-Sao chép, sửa đổi, tái bản hoặc sử dụng cho mục đích thương mại.
+**2.2.** Người dùng không được:
 
-Dịch thuật, phân phối, làm sai lệch nội dung.
+- Sao chép, sửa đổi, tái bản
+- Phân phối hoặc làm sai lệch nội dung
+- Tạo tác phẩm phái sinh
+- Bán, cho thuê hoặc cấp phép lại
 
-Tạo tác phẩm phái sinh từ bất kỳ phần nào của Website/Ứng dụng.
+**2.3.** Mọi hành vi vi phạm đều bị nghiêm cấm.
 
-Bán, chuyển nhượng, cho thuê hoặc cấp phép cho bên thứ ba.
+---
 
-2.3. Nghiêm cấm mọi hành vi vi phạm bản quyền hoặc hỗ trợ người khác vi phạm bản quyền.
+# III. THƯƠNG HIỆU
 
-III. THƯƠNG HIỆU
+Tất cả logo, nhãn hiệu, tên thương mại thuộc MBAMC hoặc đơn vị được cấp phép.
 
-Tất cả các nhãn hiệu, tên thương mại, logo hiển thị thuộc quyền sở hữu của MBAMC hoặc bên được MBAMC cấp phép.
-Mọi hành vi sử dụng trái phép đều bị nghiêm cấm.
+---
 
-IV. HOẠT ĐỘNG CỦA WEBSITE VÀ ỨNG DỤNG
+# IV. HOẠT ĐỘNG CỦA WEBSITE VÀ ỨNG DỤNG
 
-4.1. MBAMC nỗ lực duy trì hệ thống hoạt động ổn định nhưng không đảm bảo:
+**4.1.** MBAMC cố gắng duy trì hệ thống nhưng không đảm bảo:
 
-Truy cập liên tục 24/7;
+- Hoạt động 24/7
+- Không gián đoạn hoặc lỗi hệ thống
 
-Không có gián đoạn, lỗi hệ thống, hoặc sự cố từ nhà cung cấp dịch vụ.
+**4.2.** Dịch vụ có thể tạm ngừng do:
 
-4.2. Website/Ứng dụng có thể tạm dừng bất kỳ lúc nào do:
+- Bảo trì
+- Lỗi mạng
+- Vi phạm điều khoản
+- Quyết định nội bộ
 
-Bảo trì hệ thống;
+**4.3.** Người dùng tự chịu rủi ro khi truy cập đường dẫn ngoài.
 
-Lỗi kết nối mạng;
+**4.4.** Nội dung có thể thay đổi mà không báo trước.
 
-Người dùng vi phạm Điều Khoản;
+---
 
-Quyết định nội bộ của MBAMC.
+# V. MIỄN TRỪ TRÁCH NHIỆM
 
-4.3. Người dùng tự chịu rủi ro khi sử dụng các đường dẫn ngoài Website/Ứng dụng.
+MBAMC không chịu trách nhiệm khi:
 
-4.4. Nội dung có thể thay đổi và MBAMC không đảm bảo thông tin luôn đầy đủ, chính xác tại mọi thời điểm.
+- Không thể sử dụng Website/Ứng dụng
+- Lỗi kỹ thuật, virus, hoặc sự cố hệ thống
+- Sự gián đoạn ngoài kiểm soát
 
-V. MIỄN TRỪ TRÁCH NHIỆM
+---
 
-MBAMC không chịu trách nhiệm với các thiệt hại trực tiếp/gián tiếp do:
+# VI. QUYỀN SỞ HỮU THÔNG TIN
 
-Sử dụng hoặc không thể sử dụng Website/Ứng dụng;
+Mọi thông tin người dùng gửi (trừ thông tin cá nhân) trở thành tài sản của MBAMC.
 
-Lỗi mạng, lỗi hệ thống, virus, phần mềm độc hại;
+---
 
-Sự gián đoạn dịch vụ ngoài tầm kiểm soát của MBAMC.
+# VII. TRUYỀN THÔNG INTERNET
 
-VI. QUYỀN SỞ HỮU THÔNG TIN
+Thông tin truyền qua Internet có thể không an toàn tuyệt đối. MBAMC miễn trừ trách nhiệm với rủi ro phát sinh.
 
-Mọi thông tin người dùng gửi lên (ngoại trừ thông tin cá nhân) sẽ trở thành tài sản của MBAMC và có thể được sử dụng cho mục đích vận hành hệ thống mà không cần sự chấp thuận thêm.
+---
 
-VII. TRUYỀN THÔNG INTERNET
+# VIII. LUẬT ĐIỀU CHỈNH & THẨM QUYỀN
 
-Tin nhắn truyền qua Internet không đảm bảo an toàn tuyệt đối.
-MBAMC miễn trừ trách nhiệm đối với thiệt hại phát sinh khi người dùng trao đổi thông tin qua mạng.
+Điều khoản tuân theo pháp luật Việt Nam. Tranh chấp do tòa án Việt Nam giải quyết.
 
-VIII. LUẬT ĐIỀU CHỈNH & THẨM QUYỀN
+---
 
-Điều khoản này chịu sự điều chỉnh của pháp luật Việt Nam.
-Mọi tranh chấp sẽ do tòa án Việt Nam giải quyết.
+# IX. CHÍNH SÁCH BẢO MẬT (PRIVACY POLICY)
 
-🚨 IX. CHÍNH SÁCH BẢO MẬT (PRIVACY POLICY)
-1. Thông tin chúng tôi thu thập
-1.1 Dữ liệu vị trí (Location Data)
+## 1. Thông tin chúng tôi thu thập
 
-Ứng dụng thu thập vị trí chính xác (GPS) và vị trí gần đúng để phục vụ:
+### 1.1. Dữ liệu vị trí (Location Data)
 
-Chấm công theo vị trí thực tế;
+Ứng dụng thu thập:
 
-Theo dõi hành trình công tác;
+- Vị trí chính xác (GPS)
+- Vị trí gần đúng
+- Vị trí nền (background location)
 
-Xác thực nhân viên trong thời gian làm việc;
+Dùng cho:
 
-Ghi nhận lộ trình di chuyển phục vụ báo cáo;
+- Chấm công theo vị trí
+- Theo dõi hành trình công việc
+- Xác thực nhân viên
+- Ghi nhận lộ trình và đồng bộ dữ liệu
 
-Đồng bộ thông tin lên hệ thống.
+**Ứng dụng chỉ thu thập khi người dùng bật chức năng và dừng ngay khi người dùng tắt.**
 
-Ứng dụng có thể truy cập vị trí nền (background) để đảm bảo hành trình không bị gián đoạn khi thiết bị tắt màn hình hoặc chuyển sang ứng dụng khác.
-📌 Ứng dụng chỉ ghi nhận vị trí khi người dùng chủ động bật chức năng và dừng ngay khi người dùng tắt.
+---
 
-1.2 Thông tin thiết bị
+### 1.2. Thông tin thiết bị
 
-Model thiết bị, OS, IP, thông tin mạng;
+- Model thiết bị
+- Phiên bản hệ điều hành
+- IP và thông tin mạng
 
-Dữ liệu dùng để đảm bảo bảo mật và xác thực.
+Dùng để bảo mật và vận hành.
 
-1.3 Dữ liệu tài khoản
+---
 
-Họ tên, mã nhân viên, email, số điện thoại, đơn vị công tác.
+### 1.3. Dữ liệu tài khoản
 
-1.4 Dữ liệu hành trình & công việc
+- Họ tên
+- Mã nhân viên
+- Email
+- Số điện thoại
+- Đơn vị công tác
 
-Thời gian bắt đầu/kết thúc ca;
+---
 
-Các điểm dừng;
+### 1.4. Dữ liệu hành trình & công việc
 
-Lộ trình di chuyển;
+- Thời gian bắt đầu/kết thúc ca
+- Điểm dừng
+- Lộ trình di chuyển
+- Ảnh và tài liệu báo cáo
 
-Ảnh, tài liệu gửi lên phục vụ nhiệm vụ.
+---
 
-1.5 Bộ nhớ & ảnh
+### 1.5. Bộ nhớ & ảnh
 
-Dùng để chụp ảnh biên bản, hiện trường, hoặc tài liệu liên quan.
+Dùng để chụp ảnh hiện trường, hồ sơ, biên bản.
 
-2. Mục đích sử dụng dữ liệu
+---
 
-Dữ liệu được sử dụng để:
+## 2. Mục đích sử dụng dữ liệu
 
-Quản lý chấm công theo vị trí;
+- Quản lý chấm công
+- Ghi nhận hành trình công tác
+- Cải thiện ứng dụng
+- Ngăn chặn gian lận
+- Tuân thủ pháp luật
 
-Ghi nhận hành trình công tác;
+**Không sử dụng để quảng cáo hoặc bán dữ liệu.**
 
-Phục vụ công tác quản trị nội bộ;
+---
 
-Cải thiện tính năng và trải nghiệm ứng dụng;
+## 3. Chia sẻ dữ liệu
 
-Phát hiện và ngăn chặn gian lận;
+Dữ liệu chỉ được chia sẻ khi:
 
-Tuân thủ yêu cầu pháp luật.
+- Có yêu cầu pháp lý
+- Cần thiết cho vận hành máy chủ
+- Có đồng ý của người dùng
 
-⛔ Không sử dụng để quảng cáo, bán dữ liệu hoặc theo dõi ngoài phạm vi công việc.
+---
 
-3. Chia sẻ dữ liệu
+## 4. Lưu trữ & bảo mật dữ liệu
 
-MBAMC không chia sẻ dữ liệu cho bên thứ ba, trừ khi:
+- Lưu trên máy chủ MBAMC hoặc đơn vị được ủy quyền
+- Mã hóa khi truyền và lưu
+- Người dùng phải bảo mật tài khoản
 
-Có yêu cầu từ cơ quan nhà nước;
+---
 
-Hệ thống vận hành cần dùng dịch vụ máy chủ;
-
-Có sự đồng ý của người dùng.
-
-4. Lưu trữ & bảo mật dữ liệu
-
-Dữ liệu được lưu tại máy chủ MBAMC hoặc đơn vị được ủy quyền;
-
-Áp dụng mã hóa trong quá trình truyền và lưu trữ;
-
-Người dùng phải bảo mật thông tin tài khoản của mình.
-
-5. Quyền của người dùng
+## 5. Quyền của người dùng
 
 Người dùng có quyền:
 
-Xem/điều chỉnh thông tin cá nhân;
+- Xem/chỉnh sửa dữ liệu
+- Thu hồi quyền truy cập vị trí
+- Yêu cầu xoá dữ liệu
 
-Thu hồi quyền truy cập vị trí;
+---
 
-Yêu cầu xoá dữ liệu (tuân theo quy định MBAMC và pháp luật).
+## 6. Quyền truy cập vị trí trong nền
 
-6. Quyền truy cập vị trí trong nền
+Ứng dụng chỉ dùng vị trí nền khi người dùng kích hoạt chức năng theo dõi.
 
-Ứng dụng chỉ dùng vị trí nền để bảo đảm hành trình được ghi nhận đầy đủ trong thời gian người dùng làm việc.
-⛔ Không sử dụng vị trí nền khi người dùng không bật chức năng theo dõi.
+**Không thu thập vị trí nền nếu người dùng không bật.**
 
-7. Thay đổi Chính sách
+---
 
-MBAMC có thể cập nhật Chính sách này.
-Mọi thay đổi sẽ được công bố công khai trên Website/Ứng dụng.
+## 7. Thay đổi Chính sách
 
-8. Liên hệ
+MBAMC có thể cập nhật chính sách. Mọi thay đổi sẽ được đăng tải công khai.
 
-Mọi thắc mắc vui lòng liên hệ:
+---
 
-Email: baoq2015@gmail.com
+## 8. Liên hệ
 
-Hotline: 0923598228
-
-Địa chỉ: 175 Giảng Võ - Đống Đa - Hà Nội
+- **Email:** baoq2015@gmail.com  
+- **Hotline:** 0923598228  
+- **Địa chỉ:** 175 Giảng Võ, Đống Đa, Hà Nội
