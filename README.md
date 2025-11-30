@@ -79,7 +79,7 @@ VIII. LUẬT ĐIỀU CHỈNH & THẨM QUYỀN
 Điều khoản này chịu sự điều chỉnh của pháp luật Việt Nam.
 Mọi tranh chấp sẽ do tòa án Việt Nam giải quyết.
 
-🚨 IX. CHÍNH SÁCH BẢO MẬT (PRIVACY POLICY) – THEO CHUẨN GOOGLE PLAY
+🚨 IX. CHÍNH SÁCH BẢO MẬT (PRIVACY POLICY)
 1. Thông tin chúng tôi thu thập
 1.1 Dữ liệu vị trí (Location Data)
 
